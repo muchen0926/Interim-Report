@@ -47,14 +47,10 @@ Team members : 11024219 , 11024236
 ![image](https://github.com/muchen0926/Interim-Report/blob/main/2.jpg)
 
 
-
-
 ### 实现关系
 虚线空心三角形箭头表示。
 
 ![image](https://github.com/muchen0926/Interim-Report/blob/main/3.jpg)
-
-
 
 
 ### 关联关系
@@ -63,14 +59,10 @@ Team members : 11024219 , 11024236
 ![image](https://github.com/muchen0926/Interim-Report/blob/main/4.jpg)
 
 
-
-
 ### 组合关系
 实线黑色菱形箭头表示。
 
 ![image](https://github.com/muchen0926/Interim-Report/blob/main/5.jpg)
-
-
 
 
 ### 聚合关系
@@ -79,14 +71,10 @@ Team members : 11024219 , 11024236
 ![image](https://github.com/muchen0926/Interim-Report/blob/main/6.jpg)
 
 
-
-
 ## UML 对象图
 显示了某一时刻的一组对象及它们之间的关系。对象图可被看作是类图的实例,用来表达各个对象在某一时刻的状态。
 
 ![image](https://github.com/muchen0926/Interim-Report/blob/main/7.jpg)
-
-
 
 
 ### 对象图说明
