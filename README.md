@@ -10,12 +10,12 @@ Team members : 11024219 , 11024236
 <br />
 <br />
 
-### **有什么作用？*
+### *有什么作用？*
 描述软件系统的静态结构 - 对系统的词汇建模 - 对简单协作建模 - 对逻辑数据库模式建模
 <br />
 <br />
 
-### **类图说明*
+### *类图说明*
 类名为斜体则为抽象类
 类方法为斜体则为抽象方法
 <br />
@@ -43,42 +43,42 @@ Team members : 11024219 , 11024236
 <br />
 <br />
 
-### **依赖关系*
+### *依赖关系*
 虚线箭头表示。
 
 ![image](https://github.com/muchen0926/Interim-Report/blob/main/8.jpg)
 <br />
 <br />
 
-### **继承关系*
+### *继承关系*
 实线空心三角形箭头表示。
 
 ![image](https://github.com/muchen0926/Interim-Report/blob/main/2.jpg)
 <br />
 <br />
 
-### **实现关系*
+### *实现关系*
 虚线空心三角形箭头表示。
 
 ![image](https://github.com/muchen0926/Interim-Report/blob/main/3.jpg)
 <br />
 <br />
 
-### **关联关系*
+### *关联关系*
 实线表示。
 
 ![image](https://github.com/muchen0926/Interim-Report/blob/main/4.jpg)
 <br />
 <br />
 
-### **组合关系*
+### *组合关系*
 实线黑色菱形箭头表示。
 
 ![image](https://github.com/muchen0926/Interim-Report/blob/main/5.jpg)
 <br />
 <br />
 
-### **聚合关系*
+### *聚合关系*
 实线空心菱形箭头表示。
 
 ![image](https://github.com/muchen0926/Interim-Report/blob/main/6.jpg)
@@ -91,7 +91,7 @@ Team members : 11024219 , 11024236
 <br />
 <br />
 
-### **对象图说明*
+### *对象图说明*
 
 stu 实例名称，Student 所属类。
 
