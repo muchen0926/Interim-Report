@@ -37,11 +37,13 @@ Team members : 11024219 , 11024236
 
 ### 依赖关系
 虚线箭头表示。
+
 ![image](https://github.com/muchen0926/Interim-Report/blob/main/8.jpg)
 
 
 ### 继承关系
 实线空心三角形箭头表示。
+
 ![image](https://github.com/muchen0926/Interim-Report/blob/main/2.jpg)
 
 
@@ -49,6 +51,7 @@ Team members : 11024219 , 11024236
 
 ### 实现关系
 虚线空心三角形箭头表示。
+
 ![image](https://github.com/muchen0926/Interim-Report/blob/main/3.jpg)
 
 
@@ -56,6 +59,7 @@ Team members : 11024219 , 11024236
 
 ### 关联关系
 实线表示。
+
 ![image](https://github.com/muchen0926/Interim-Report/blob/main/4.jpg)
 
 
@@ -63,6 +67,7 @@ Team members : 11024219 , 11024236
 
 ### 组合关系
 实线黑色菱形箭头表示。
+
 ![image](https://github.com/muchen0926/Interim-Report/blob/main/5.jpg)
 
 
@@ -70,6 +75,7 @@ Team members : 11024219 , 11024236
 
 ### 聚合关系
 实线空心菱形箭头表示。
+
 ![image](https://github.com/muchen0926/Interim-Report/blob/main/6.jpg)
 
 
@@ -77,6 +83,7 @@ Team members : 11024219 , 11024236
 
 ## UML 对象图
 显示了某一时刻的一组对象及它们之间的关系。对象图可被看作是类图的实例,用来表达各个对象在某一时刻的状态。
+
 ![image](https://github.com/muchen0926/Interim-Report/blob/main/7.jpg)
 
 
