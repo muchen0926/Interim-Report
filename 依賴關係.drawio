@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T07:30:17.962Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="3W1CJUNDtpIQzN7GIaor" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T07:33:56.846Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="aGhiW-hZTyp7e-o_-CO9" version="22.0.8" type="github">
   <diagram name="第 1 页" id="gacS-CB2YZILWXWcVJ0e">
     <mxGraphModel dx="1050" dy="1743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="eG_bJUYpT0XTV17jZz0c-4" value="+新陳代謝(氧氣,水)&lt;br&gt;-繁殖1()&lt;br&gt;#繁殖2()&lt;br&gt;+繁殖3()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="eG_bJUYpT0XTV17jZz0c-1">
           <mxGeometry y="110" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="eG_bJUYpT0XTV17jZz0c-5" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="eG_bJUYpT0XTV17jZz0c-6">
+        <mxCell id="eG_bJUYpT0XTV17jZz0c-5" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="eG_bJUYpT0XTV17jZz0c-6">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="220" y="-650" as="sourcePoint" />
             <mxPoint x="380" y="-650" as="targetPoint" />
