@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T07:19:42.611Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="22.0.8" etag="eE70FPRwxk-DLXWA0-qL" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T07:30:17.962Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="3W1CJUNDtpIQzN7GIaor" version="22.0.8" type="github">
   <diagram name="第 1 页" id="gacS-CB2YZILWXWcVJ0e">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="1743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eG_bJUYpT0XTV17jZz0c-1" value="動物" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-674" width="160" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="eG_bJUYpT0XTV17jZz0c-2" value="-名稱1&lt;br&gt;#名稱2&lt;br&gt;+名稱3&lt;br&gt;+有生命" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="eG_bJUYpT0XTV17jZz0c-1">
+          <mxGeometry y="26" width="160" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="eG_bJUYpT0XTV17jZz0c-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="eG_bJUYpT0XTV17jZz0c-1">
+          <mxGeometry y="100" width="160" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="eG_bJUYpT0XTV17jZz0c-4" value="+新陳代謝(氧氣,水)&lt;br&gt;-繁殖1()&lt;br&gt;#繁殖2()&lt;br&gt;+繁殖3()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="eG_bJUYpT0XTV17jZz0c-1">
+          <mxGeometry y="110" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="eG_bJUYpT0XTV17jZz0c-5" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="eG_bJUYpT0XTV17jZz0c-6">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="220" y="-650" as="sourcePoint" />
+            <mxPoint x="380" y="-650" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="-650" />
+              <mxPoint x="350" y="-684" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eG_bJUYpT0XTV17jZz0c-6" value="氧氣" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-710" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="eG_bJUYpT0XTV17jZz0c-10" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="eG_bJUYpT0XTV17jZz0c-11">
+          <mxGeometry x="-0.058" y="-80" width="160" relative="1" as="geometry">
+            <mxPoint x="219" y="-650" as="sourcePoint" />
+            <mxPoint x="420" y="-570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="-650" />
+              <mxPoint x="350" y="-584" />
+            </Array>
+            <mxPoint x="-74" y="49" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eG_bJUYpT0XTV17jZz0c-11" value="水" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-610" width="140" height="52" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
