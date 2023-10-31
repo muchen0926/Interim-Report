@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" modified="2023-10-31T07:17:45.858Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="H3KJo2XnLW9hHNZ0WVlY" version="22.0.8" type="github">
+  <diagram name="第 1 页" id="hKkizMFaHF4kn4ueuRoo">
+    <mxGraphModel dx="1050" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qbovBTTb5bu8FlmeCGOT-6" value="Classname" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="100" width="160" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="qbovBTTb5bu8FlmeCGOT-7" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="qbovBTTb5bu8FlmeCGOT-6">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="qbovBTTb5bu8FlmeCGOT-8" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="qbovBTTb5bu8FlmeCGOT-6">
+          <mxGeometry y="52" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="qbovBTTb5bu8FlmeCGOT-9" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="qbovBTTb5bu8FlmeCGOT-6">
+          <mxGeometry y="60" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="qbovBTTb5bu8FlmeCGOT-15" value="動物" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="585" width="160" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="qbovBTTb5bu8FlmeCGOT-16" value="-名稱1&lt;br&gt;#名稱2&lt;br&gt;+名稱3&lt;br&gt;+有生命" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="qbovBTTb5bu8FlmeCGOT-15">
+          <mxGeometry y="26" width="160" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="qbovBTTb5bu8FlmeCGOT-17" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="qbovBTTb5bu8FlmeCGOT-15">
+          <mxGeometry y="100" width="160" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="qbovBTTb5bu8FlmeCGOT-18" value="+新陳代謝(氧氣,水)&lt;br&gt;-繁殖1()&lt;br&gt;#繁殖2()&lt;br&gt;+繁殖3()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="qbovBTTb5bu8FlmeCGOT-15">
+          <mxGeometry y="110" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qbovBTTb5bu8FlmeCGOT-19" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.46;exitY=0.018;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qbovBTTb5bu8FlmeCGOT-20" target="qbovBTTb5bu8FlmeCGOT-15">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="410" y="880" as="sourcePoint" />
+            <mxPoint x="414" y="764.9960824742268" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qbovBTTb5bu8FlmeCGOT-20" value="鳥" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="880" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="qbovBTTb5bu8FlmeCGOT-21" value="+羽毛&lt;br&gt;+有角質沒有牙齒" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="qbovBTTb5bu8FlmeCGOT-20">
+          <mxGeometry y="26" width="160" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="qbovBTTb5bu8FlmeCGOT-22" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="qbovBTTb5bu8FlmeCGOT-20">
+          <mxGeometry y="60" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="qbovBTTb5bu8FlmeCGOT-23" value="+下蛋()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="qbovBTTb5bu8FlmeCGOT-20">
+          <mxGeometry y="68" width="160" height="42" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
